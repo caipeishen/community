@@ -1,0 +1,113 @@
+{
+  "homeInfo": {
+    "title": "首页",
+    "href": "page/business/park/CarParkIndex.html"
+  },
+  "logoInfo": {
+    "title": "社区物业管理",
+    "image": "images/favicon.ico",
+    "href": ""
+  },
+  "menuInfo": [
+    {
+      "title": "社区物业管理",
+      "icon": "fa fa-lemon-o",
+      "href": "",
+      "target": "_self",
+      "child": [
+
+        {
+          "title": "核心业务处理",
+          "icon": "fa fa-lemon-o",
+          "href": "",
+          "target": "_self",
+          "child": [
+            {
+              "title": "车位收费管理",
+              "href": "page/business/park/CarParkIndex.html",
+              "icon": "fa fa-dashboard",
+              "target": "_self"
+            },
+            {
+              "title": "物业收费管理",
+              "href": "page/business/property/PropertyIndex.html",
+              "icon": "fa fa-angle-double-down",
+              "target": "_self"
+            },
+            {
+              "title": "投诉信息管理",
+              "href": "page/business/complaint/ComplaintIndex.html",
+              "icon": "fa fa-dot-circle-o",
+              "target": "_self"
+            },
+            {
+              "title": "报修信息管理",
+              "href": "page/business/repair/RepairIndex.html",
+              "icon": "fa fa-adn",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "基础信息管理",
+          "icon": "fa fa-lemon-o",
+          "href": "",
+          "target": "_self",
+          "child": [
+            {
+              "title": "楼宇管理",
+              "href": "page/base/build/BuildIndex.html",
+              "icon": "fa fa-dot-circle-o",
+              "target": "_self"
+            },
+            {
+              "title": "房屋管理",
+              "href": "page/base/house/HouseIndex.html",
+              "icon": "fa fa-adn",
+              "target": "_self"
+            },
+            {
+              "title": "业主管理",
+              "href": "page/base/owner/OwnerIndex.html",
+              "icon": "fa fa-angle-double-down",
+              "target": "_self"
+            },
+            {
+              "title": "车位管理",
+              "href": "page/base/park/ParkIndex.html",
+              "icon": "fa fa-dashboard",
+              "target": "_self"
+            },
+
+            {
+              "title": "抄表管理",
+              "href": "page/base/record/RecordIndex.html",
+              "icon": "fa fa-edit",
+              "target": "_self"
+            },
+            {
+              "title": "用户管理",
+              "href": "page/base/admin/index.html",
+              "icon": "fa fa-user-circle-o",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "数据统计分析",
+          "icon": "fa fa-lemon-o",
+          "href": "",
+          "target": "_self",
+          "child": [
+            {
+              "title": "报修统计分析",
+              "href": "page/count/index3.html",
+              "icon": "fa fa-area-chart",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
